@@ -1,0 +1,39 @@
+body
+{
+    color: #E9ECEF;
+}
+
+#logo
+{
+    color: #ff1616;
+}
+
+.baslik
+{
+    color: red;
+}
+
+.jumbotron
+{
+    text-align: center;
+}
+
+.text
+{
+    color: #666666;
+}
+.text:hover
+{
+    color: #004aad;
+}
+
+.liste
+{
+    list-style-type:none
+}
+.ml{
+    margin-left: 700px;
+}
+ .m{
+    padding-bottom: 70px;
+} 
